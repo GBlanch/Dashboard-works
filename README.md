@@ -1,4 +1,4 @@
-## Dashboarding
+## Dashboard works
 
 You can visit the following interactive dashboards I elaborated in my **[Tableau Public profile ](https://public.tableau.com/app/profile/gerard.blanch/vizzes)**
 
