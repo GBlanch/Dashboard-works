@@ -12,8 +12,8 @@ You can visit the following interactive dashboards I elaborated in my **[Tableau
 
 ### [Bike rides in London from 2014 to 2015](https://public.tableau.com/app/profile/gerard.blanch/viz/LondonBikeRides_15-16/BikeRidesLondon)
   <p align="center">
-  <img src="https://github.com/GBlanch/Dashboarding/blob/main/assets/bikes_dashboard.png"> 
+  <img src="https://github.com/GBlanch/Dashboarding/blob/main/assets/bikes_dashboard_2.png"> 
 
 ### [Attrition and Satisfaction Analytics in 2023 Excercise](https://public.tableau.com/app/profile/gerard.blanch/viz/Attrition_Satisfaction_in_2023_Excercise/HRAnalytics) (made out of Synthetic Data)
   <p align="center">
-  <img src="https://github.com/GBlanch/Dashboarding/blob/main/assets/attrition_satisfaction_dashboard_2.png"> 
+  <img src="https://github.com/GBlanch/Dashboarding/blob/main/assets/attrition_satisfaction_dashboard.png"> 
