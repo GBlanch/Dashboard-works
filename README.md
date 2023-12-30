@@ -17,3 +17,7 @@ You can visit the following interactive dashboards I elaborated in my **[Tableau
 ### [Attrition and Satisfaction Analytics in 2023 Excercise](https://public.tableau.com/app/profile/gerard.blanch/viz/Attrition_Satisfaction_in_2023_Excercise/HRAnalytics) (made out of Synthetic Data)
   <p align="center">
   <img src="https://github.com/GBlanch/Dashboarding/blob/main/assets/attrition_satisfaction_dashboard.png"> 
+
+### [Credit Card Complaint Dasboard](https://public.tableau.com/app/profile/gerard.blanch/viz/Credit_Card_Complaint_in_USA_y_15_to_21/CreditCardComplaintDasboard) (made out of Synthetic Data)
+  <p align="center">
+  <img src=""> 
