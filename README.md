@@ -18,6 +18,6 @@ You can visit the following interactive dashboards I elaborated in my **[Tableau
   <p align="center">
   <img src="https://github.com/GBlanch/Dashboarding/blob/main/assets/attrition_satisfaction_dashboard.png"> 
 
-### [Credit Card Complaint Dasboard](https://public.tableau.com/app/profile/gerard.blanch/viz/Credit_Card_Complaint_in_USA_y_15_to_21/CreditCardComplaintDasboard) (made out of Synthetic Data)
+### [Credit Card Complaint Dasboard](https://public.tableau.com/app/profile/gerard.blanch/viz/Credit_Card_Complaint_in_USA_y_15_to_21/CreditCardComplaint) (made out of Synthetic Data)
   <p align="center">
   <img src="![image](https://github.com/GBlanch/Dashboard-works/assets/136500426/58a82e9b-b973-499b-8970-c1410dbd0917)"> 
